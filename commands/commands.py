@@ -22,7 +22,7 @@ keyboard = [
  InlineKeyboardButton("Source Code", url=Config.SOURCE)
 ],
 [
- InlineKeyboardButton("How To Create A Bot Like Me",url="https://youtu.be/swg6un2N4Fk")
+ InlineKeyboardButton("How To Create A Bot Like Me",url="https://telegra.ph/file/c97d38a45cda9d5218943.jpg")
 ]
 ]
 
